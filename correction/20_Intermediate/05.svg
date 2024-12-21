@@ -1,0 +1,23 @@
+<svg id="mol16" xmlns="http://www.w3.org/2000/svg" version="1.1" width="63px" height="63px" viewBox="122 69 63 63">
+  <style> text {font-family: sans-serif;} #mol16 { pointer-events:none; } #mol16 .event  { pointer-events:all; } line { stroke-linecap:round; } polygon { stroke-linejoin:round; } </style>
+  <text x="165.34" y="116.67" stroke="none" font-size="14" fill="rgb(255,13,13)">O</text>
+  <line x1="150" y1="124" x2="129.22" y2="112" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="149.58" y1="119.6" x2="133.23" y2="110.16" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="150" y1="76" x2="170.78" y2="88" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="170.78" y1="88" x2="170.78" y2="105" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="164.34" y1="115.72" x2="150" y2="124" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="129.22" y1="112" x2="129.22" y2="88" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="150" y1="76" x2="129.22" y2="88" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line id="mol16:Bond:3" class="event" x1="150" y1="124" x2="129.22" y2="112" stroke-width="8" opacity="0" />
+  <line id="mol16:Bond:0" class="event" x1="150" y1="76" x2="170.78" y2="88" stroke-width="8" opacity="0" />
+  <line id="mol16:Bond:1" class="event" x1="170.78" y1="88" x2="170.78" y2="112" stroke-width="8" opacity="0" />
+  <line id="mol16:Bond:2" class="event" x1="170.78" y1="112" x2="150" y2="124" stroke-width="8" opacity="0" />
+  <line id="mol16:Bond:4" class="event" x1="129.22" y1="112" x2="129.22" y2="88" stroke-width="8" opacity="0" />
+  <line id="mol16:Bond:5" class="event" x1="150" y1="76" x2="129.22" y2="88" stroke-width="8" opacity="0" />
+  <circle id="mol16:Atom:0" class="event" cx="150" cy="76" r="8" opacity="0" />
+  <circle id="mol16:Atom:1" class="event" cx="170.78" cy="88" r="8" opacity="0" />
+  <circle id="mol16:Atom:2" class="event" cx="170.78" cy="112" r="8" opacity="0" />
+  <circle id="mol16:Atom:3" class="event" cx="150" cy="124" r="8" opacity="0" />
+  <circle id="mol16:Atom:4" class="event" cx="129.22" cy="112" r="8" opacity="0" />
+  <circle id="mol16:Atom:5" class="event" cx="129.22" cy="88" r="8" opacity="0" />
+</svg>

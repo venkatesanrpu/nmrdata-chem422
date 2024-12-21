@@ -1,0 +1,20 @@
+{
+  "spectra": [
+    {
+      "source": {
+        "jcampURL": "./CARBON_500MHz.jdx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./PROTON_500MHz.jdx"
+      },
+      "display": {
+        "name": ""
+      }
+    }
+  ]
+}
